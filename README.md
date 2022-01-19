@@ -19,7 +19,7 @@ NOTE: only tested on manjaro/gnome, but it should work pretty much on any gnome.
 
 requires root permissions.
 
-installs files at `/usr/share/backgrounds/LiveWallpapers` and `propertypath=/usr/share/gnome-background-properties`.
+installs files at `/usr/share/backgrounds/LiveWallpapers` and `/usr/share/gnome-background-properties`.
 
 ```
 # ./make_live_wallpaper.sh <video-file> <output-name>
